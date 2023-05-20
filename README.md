@@ -1,14 +1,12 @@
 # Rubik: fastn Font Package
 
-This repository contains a [fastn font package](https://fpm.dev/featured/fonts/) containing [Google Font: 
-rubik](https://fonts.google.com/specimen/rubik/about).
+This repository contains a [fastn font package](https://fpm.dev/featured/fonts/) containing 
+[Google Font: rubik](https://fonts.google.com/specimen/rubik/about).
 
-rubik is a Devanagari and Latin type family. It originated with Modular
-InfoTech's 1201, and was made more smooth. The new and original Latin design is
-intended to match the Devanagari in weight and and size with an unusual
-high-contrast sans serif design.
+Rubik is a sans serif font family with slightly rounded corners designed by Philipp Hubert 
+and Sebastian Fischer at Hubert & Fischer as part of the Chrome Cube Lab project.
 
-Designers: Eduardo Tunni, Principal design
+Designers: Philipp Hubert, Sebastian Fischer
 
 ## How To Use This Font In Your fastn Package:
 
@@ -23,5 +21,5 @@ server](https://discord.gg/bucrdvptYd).
 
 ## License
 
-Since rubik Font is under [Open Font Licence](https://fonts.google.com/specimen/rubik/about), this fastn wrapper is also
-under [Open Font License](LICENSE).
+Since rubik Font is under [Open Font Licence](https://fonts.google.com/specimen/rubik/about), 
+this fastn wrapper is also under [Open Font License](LICENSE).
