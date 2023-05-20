@@ -16,7 +16,7 @@ Also, check [rubik-font-typography](https://fastn-community.github.io/rubik-font
 
 ## 👀 Want to learn more?
 
-Feel free to check [our documentation](https://fpm.dev/) or jump into our [FifthTry Discord 
+Feel free to check [our documentation](https://fastn.com/) or jump into our [FifthTry Discord 
 server](https://discord.gg/bucrdvptYd).
 
 ## License
