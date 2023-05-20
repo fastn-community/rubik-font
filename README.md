@@ -1,36 +1,25 @@
-# Welcome to your [FASTN site](https://fastn.io/)
+# Rubik: fastn Font Package
 
-FTD Font Package Template Repo
+This repository contains a [fastn font package](https://fpm.dev/featured/fonts/) containing 
+[Google Font: rubik](https://fonts.google.com/specimen/rubik/about).
 
+Rubik is a sans serif font family with slightly rounded corners designed by Philipp Hubert 
+and Sebastian Fischer at Hubert & Fischer as part of the Chrome Cube Lab project.
 
-## 🚀 Project Structure
+Designers: Philipp Hubert, Sebastian Fischer
 
-Inside of your FASTN project, you'll see the following folders and files:
+## How To Use This Font In Your fastn Package:
 
-```
-/
-├── .build/
-│   └── index.html
-├── .packages/
-│   └── fifthtry.github.io/
-│   	└── All downloaded dependencies
-│   	
-├── FASTN.ftd
-├── index.ftd
-└── README.md
-```
+[Read the docs and demo](https://fastn-community.github.io/rubik-font/).
 
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                | Action                                             |
-| :--------------------- | :------------------------------------------------- |
-| `fastn build`            | FASTN builder installs all `FASTN` dependencies        |
-| `fastn serve`            | Starts local dev server at available port`localhost:8000`          |
-
-
+Also, check [rubik-font-typography](https://fastn-community.github.io/rubik-font-typography/)
 
 ## 👀 Want to learn more?
 
-Feel free to check [our documentation](https://fastn.io/) or jump into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
+Feel free to check [our documentation](https://fastn.com/) or jump into our [FifthTry Discord 
+server](https://discord.gg/bucrdvptYd).
+
+## License
+
+Since rubik Font is under [Open Font Licence](https://fonts.google.com/specimen/rubik/about), 
+this fastn wrapper is also under [Open Font License](LICENSE).
